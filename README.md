@@ -1,4 +1,4 @@
-<<h1 align="center">Hola 👋, me llamo Javier Villarreal</h1>
+<h1 align="center">Hola 👋, me llamo Javier Villarreal</h1>
 <h3 align="center">Estoy en desarrollo de programación en España</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=villarrealjavier&label=Profile%20views&color=0e75b6&style=flat" alt="villarrealjavier" /> </p>
